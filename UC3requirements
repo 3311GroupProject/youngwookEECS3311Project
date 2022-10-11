@@ -1,0 +1,2 @@
+Accessing the dropdown requires Analysis Methods(mortality, mortality vs GDP, Unemployment vs GDP and such) from the database. 
+Selected Analysis Method data, then, will be sent to the database to be saved.
